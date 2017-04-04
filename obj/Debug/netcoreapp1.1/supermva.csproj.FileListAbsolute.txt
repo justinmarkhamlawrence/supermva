@@ -1,0 +1,8 @@
+/Users/justinlawrence/Documents/ASP/supermva/bin/Debug/netcoreapp1.1/supermva.deps.json
+/Users/justinlawrence/Documents/ASP/supermva/bin/Debug/netcoreapp1.1/supermva.runtimeconfig.json
+/Users/justinlawrence/Documents/ASP/supermva/bin/Debug/netcoreapp1.1/supermva.runtimeconfig.dev.json
+/Users/justinlawrence/Documents/ASP/supermva/bin/Debug/netcoreapp1.1/supermva.dll
+/Users/justinlawrence/Documents/ASP/supermva/bin/Debug/netcoreapp1.1/supermva.pdb
+/Users/justinlawrence/Documents/ASP/supermva/obj/Debug/netcoreapp1.1/supermva.AssemblyInfo.cs
+/Users/justinlawrence/Documents/ASP/supermva/obj/Debug/netcoreapp1.1/supermva.dll
+/Users/justinlawrence/Documents/ASP/supermva/obj/Debug/netcoreapp1.1/supermva.pdb
